@@ -129,3 +129,4 @@ web_modules/
 
 # custom
 /build
+/node_modules
